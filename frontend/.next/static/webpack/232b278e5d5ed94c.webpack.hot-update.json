@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/jobs/[id]"],"m":["./components/job/JobDetails.js","./node_modules/moment/moment.js","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=S%3A%5Cjobbee-og%5Cfrontend%5Cpages%5Cjobs%5C%5Bid%5D.js&page=%2Fjobs%2F%5Bid%5D!","./pages/jobs/[id].js"]}
